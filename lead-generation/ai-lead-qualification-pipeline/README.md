@@ -257,7 +257,7 @@ ai-lead-qualification-pipeline/
 
 Complete AI-powered lead qualification workflow built in n8n.
 
-![Workflow Overview](assets/workflow-overview.png)
+![Workflow Overview](workflow-overview.png)
 
 ---
 
@@ -265,7 +265,7 @@ Complete AI-powered lead qualification workflow built in n8n.
 
 All processed leads are automatically analyzed, scored, and stored in Google Sheets.
 
-![Qualified Leads](assets/qualified-leads-sheet.png)
+![Qualified Leads](qualified-leads-sheet.png)
 
 ---
 
@@ -273,7 +273,7 @@ All processed leads are automatically analyzed, scored, and stored in Google She
 
 Workflow failures are automatically logged with execution details for easier debugging and monitoring.
 
-![Error Log](assets/error-log-sheet.png)
+![Error Log](error-log-sheet.png)
 
 ---
 
